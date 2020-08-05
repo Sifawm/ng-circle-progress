@@ -1,5 +1,5 @@
 {
-  "name": "@sifawm/ng-circle-progress",
+  "name": "ng-circle-progress-ivy",
   "version": "1.5.0",
   "scripts": {
     "build": "ng-packagr -p ng-package.json",
